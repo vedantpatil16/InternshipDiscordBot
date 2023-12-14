@@ -12,9 +12,7 @@ This version is no longer maintained or actively developed. Refer to the main re
 ## Contents
 The archive includes multiple Python code files, focusing and having specific functionalities:
 - **[FinalDisordBot1.py]**: This file contains all the functionalities invoked by '/news' command such as homepage, upcoming events, Latest news across various federations and Clear button. 
-		The variation is for the posting of news articles. When posting on a discord server the bot will post the latest 4 news from the respective federation. The bot will post 4 embeds for 4 news articles, each embed will contain title of news, link of news and thumbnail of news set as image.	  
-- **[File Name 2]**: Functionality description or brief explanation.
-- **[File Name 3]**: Functionality description or brief explanation.
+		The variation is for the posting of news articles. When posting on a discord server the bot will post the latest 4 news from the respective federation. The bot will post 4 embeds for 4 news articles, each embed will contain title of news, link of news and thumbnail of news set as image.
 
 ## Feature specific files
 **[ButtonDiscord.py]**: This file is used for demonstration of buttons and interactions with the user in discord.
